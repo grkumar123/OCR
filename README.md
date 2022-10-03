@@ -1,6 +1,6 @@
 # OCR
 
-**Document Layout Analysis and Recognition**
+### Document Layout Analysis and Recognition
 
 
 
@@ -10,11 +10,11 @@
    - PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977968
 
 
-- **Handwritten Text Recognition**
+### Handwritten Text Recognition
 
 
 
-- **Printed Text Recognition**
+### Printed Text Recognition
 
 
 
