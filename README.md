@@ -25,5 +25,20 @@
 [2] CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition
    - PDF: https://www.researchgate.net/publication/356456845_CDistNet_Perceiving_Multi-Domain_Character_Distance_for_Robust_Text_Recognition 
 
+[3] Text Recognition in the Wild: A Survey
+   - PDF : https://arxiv.org/pdf/2005.03492.pdf
 
-
+[4] SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition
+   - PDF : https://arxiv.org/pdf/2203.10209.pdf
+   
+[5] TPSNet: Reverse Thinking of Thin Plate Splines for Arbitrary Shape Scene Text Representation
+   - PDF : https://arxiv.org/pdf/2110.12826.pdf
+   
+[6] Towards Accurate Scene Text Recognition with Semantic Reasoning Networks
+   - PDF : https://arxiv.org/pdf/2003.12294.pdf
+   
+[7] Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition
+   - PDF : https://arxiv.org/pdf/2003.06606.pdf
+   
+[8] Symmetry-constrained Rectification Network for Scene Text Recognition
+   - PDF : https://arxiv.org/pdf/1908.01957.pdf
