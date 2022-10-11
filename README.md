@@ -14,6 +14,12 @@
    
 [5] Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)
    - PDF : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151144
+
+[6] LayoutLM: Pre-training of Text and Layout for Document Image Understanding
+   - PDF : https://arxiv.org/pdf/1912.13318.pdf
+
+[7] LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
+   - PDF : https://arxiv.org/pdf/2204.08387.pdf
    
 ## Scene Text Recognition
 
