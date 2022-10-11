@@ -1,6 +1,4 @@
-# OCR
-
-### Papers
+## Papers
 
 [1] TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
    - PDF: https://arxiv.org/pdf/2109.10282.pdf
@@ -17,7 +15,7 @@
 [5] Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR)
    - PDF : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151144
    
-### Scene Text Recognition
+## Scene Text Recognition
 
 [1] CRNN based Jersey-Bib Number/Text Recognition in Sports and Marathon Images - ICDAR 2019
    - PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977968
@@ -42,3 +40,12 @@
    
 [8] Symmetry-constrained Rectification Network for Scene Text Recognition
    - PDF : https://arxiv.org/pdf/1908.01957.pdf
+
+[9] FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition
+   - PDF : https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf
+
+[10] Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting
+   - PDF : https://arxiv.org/pdf/2203.03911.pdf
+
+[11] Contextual Text Block Detection towards Scene Text Understanding
+   - PDF : https://arxiv.org/pdf/2207.12955.pdf
