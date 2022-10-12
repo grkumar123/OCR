@@ -74,7 +74,7 @@
    
 # Scene Text Recognition
 
-[1] CRNN based Jersey-Bib Number/Text Recognition in Sports and Marathon Images - ICDAR 2019
+[1] CRNN based Jersey-Bib Number/Text Recognition in Sports and Marathon Images
    - PDF: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8977968
  
 [2] CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition
