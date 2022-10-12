@@ -1,4 +1,7 @@
-# Papers
+This repositoy contains research papers on **Document Layout Analysis and Text Recognition**. The text may be Handwritten, Printed or Scene text.
+
+
+# Handwritten and Printed Text Recognition
 
 [1] TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models
    - PDF: https://arxiv.org/pdf/2109.10282.pdf
@@ -71,6 +74,66 @@
    
 [24] Start, Follow, Read: End-to-End Full-Page Handwriting Recognition
    - PDF : https://openaccess.thecvf.com/content_ECCV_2018/papers/Curtis_Wigington_Start_Follow_Read_ECCV_2018_paper.pdf
+   
+[25] Handwritten Text Recognition using Deep Learning
+   - PDF : http://cs231n.stanford.edu/reports/2017/pdfs/810.pdf
+   
+[26] Character-Based Handwritten Text Transcription with Attention Networks
+   - PDF : https://arxiv.org/pdf/1712.04046.pdf
+   
+[27] Stylometry for Noisy Medieval Data: Evaluating Paul Meyer’s Hagiographic Hypothesis
+   - PDF : https://www.researchgate.net/publication/346701170_Stylometry_for_Noisy_Medieval_Data_Evaluating_Paul_Meyer's_Hagiographic_Hypothesis
+   
+[28] HANA: A HAndwritten NAme Database for Offline Handwritten Text Recognition
+   - PDF : https://arxiv.org/pdf/2101.10862.pdf
+   
+[29] SPAN: a Simple Predict & Align Network for Handwritten Paragraph Recognition
+   - PDF : https://arxiv.org/pdf/2102.08742.pdf
+   
+[30] Full Page Handwriting Recognition via Image to Sequence Extraction
+   - PDF : https://arxiv.org/pdf/2103.06450.pdf
+   
+[31] Digital Peter: New Dataset, Competition and Handwriting Recognition Methods
+   - PDF : https://arxiv.org/pdf/2103.09354.pdf
+   
+[32] TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers
+   - PDF : https://arxiv.org/pdf/2105.03906.pdf
+   
+[33] SmartPatch: Improving Handwritten Word Imitation with Patch Discriminators
+   - PDF : https://arxiv.org/pdf/2105.10528.pdf
+   
+[34] KOHTD: Kazakh Offline Handwritten Text Dataset
+   - PDF : https://arxiv.org/pdf/2110.04075.pdf
+   
+[35] Rescoring Sequence-to-Sequence Models for Text Line Recognition with CTC-Prexes
+   - PDF : https://arxiv.org/pdf/2110.05909.pdf
+   
+[36] Continuous Offline Handwriting Recognition using Deep Learning Models
+   - PDF : https://arxiv.org/pdf/2112.13328.pdf
+   
+[37] AttentionHTR: Handwritten Text Recognition Based on Attention Encoder-Decoder Networks
+   - PDF : https://arxiv.org/pdf/2201.09390.pdf
+   
+[38] Easter2.0: Improving convolutional models for handwritten text recognition
+   - PDF : https://arxiv.org/pdf/2205.14879.pdf
+   
+[39] BN-HTRd:A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition(HTR)and Line Segmentation
+   - PDF : https://arxiv.org/ftp/arxiv/papers/2206/2206.08977.pdf
+   
+[40] iiit-indic-hw-words: A Dataset for Indic Handwritten Text Recognition
+   - PDF : http://cvit.iiit.ac.in/images/ConferencePapers/2021/iiit-indic-hw-words.pdf
+   
+[41] Offline Handwriting Recognition on Devanagari using a new Benchmark Dataset
+   - PDF : http://cvit.iiit.ac.in/images/ConferencePapers/2018/offline-handwriting-recognition.pdf
+   
+[42] Towards Spotting and Recognition of Handwritten Words in Indic Scripts
+   - PDF : http://cvit.iiit.ac.in/images/ConferencePapers/2018/spotting-recognition-handwritten.pdf
+   
+[43] Transfer Learning for Scene Text Recognition in Indian Languages
+   - PDF : http://cvit.iiit.ac.in/images/ConferencePapers/2021/Transfer_Learning_Indian_STR.pdf
+   
+   
+   
    
 # Scene Text Recognition
 
